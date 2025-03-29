@@ -1,11 +1,11 @@
 
-# Medical Insurance Premium Prediction App  
+# 🏥 Medical Insurance Premium Prediction App  
 
 This repository contains an interactive Streamlit-based web application designed to predict medical insurance premiums using Machine Learning models. The project leverages multiple ML algorithms and provides insights into model performance through comparison graphs. Users can input relevant details (such as age, BMI, and more) and get real-time premium predictions based on the trained model.  
 
 ---
 
-## Features  
+## 🌟 Features  
 - **User-Friendly Interface**:  
   Built with Streamlit, the app offers a simple and interactive UI for seamless user experience.  
 
@@ -15,7 +15,7 @@ This repository contains an interactive Streamlit-based web application designed
 - **Interactive Visualizations**:  
   Graphs and charts comparing untuned and tuned model performances to highlight improvements.  
 
-  ### Model Performance Comparison:  
+  ### 📊 Model Performance Comparison:  
   ![Model Performance Graph](graph.png)  
 
 - **Real-Time Predictions**:  
@@ -23,7 +23,7 @@ This repository contains an interactive Streamlit-based web application designed
 
 ---
 
-## Technologies Used  
+## 🛠️ Technologies Used  
 - **Machine Learning Libraries**:  
   - Scikit-Learn  
   - XGBoost  
@@ -37,7 +37,7 @@ This repository contains an interactive Streamlit-based web application designed
 
 ---
 
-## How to Run the App Locally  
+## 🚀 How to Run the App Locally  
 1. **Clone the Repository:**  
    ```bash  
    git clone https://github.com/yourusername/medical-insurance-premium-prediction.git  
@@ -54,16 +54,10 @@ This repository contains an interactive Streamlit-based web application designed
 
 ---
 
-## Demo Video  
+## 🎥 Demo Video  
 A detailed walkthrough and demonstration of the app’s features, user interface, and real-time prediction functionality can be found in the demo video below:  
 
 [Watch the Demo Video](link-to-demo-video)
-
----
-
-## Future Enhancements (Optional)  
-- Adding more advanced hyperparameter tuning methods.  
-- Incorporating additional user-friendly features like tooltips, detailed prediction analysis, and insights.  
 
 ---
 
