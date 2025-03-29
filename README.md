@@ -16,14 +16,16 @@ This repository contains an interactive **Streamlit-based web application** desi
   Graphs and charts comparing untuned and tuned model performances to highlight improvements.
 
 ### Model Performance Comparison  
-![Model Performance Graph](graph.png)
+![Model_Performance](https://github.com/user-attachments/assets/146b8a59-4177-41c2-91bf-94d58d8453bd)
+
 
 - **Real-Time Predictions**:  
   Users can input their details and instantly get personalized medical insurance premium predictions.
 
 - **📸 Streamlit Interface**:  
   Below is a glimpse of the Streamlit application's user interface:
-  ![Streamlit Interface](streamlit_screenshot.png)
+  ![Streamit Interface](https://github.com/user-attachments/assets/92cd77aa-bd24-4be8-ba58-53e265f801df)
+
 
 ---
 
