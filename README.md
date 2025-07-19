@@ -67,13 +67,6 @@ The app takes user input (like age, BMI, etc.) and uses the selected machine lea
 
 ---
 
-## 📹 Demo Video
-A detailed walkthrough and demonstration of the app’s features, user interface, and real-time prediction functionality can be found in the demo video below:
-
-[Watch the Demo Video](link-to-demo-video)
-
----
-
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
