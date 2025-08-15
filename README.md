@@ -3,6 +3,12 @@
 
 This repository contains a comprehensive **Medical Insurance Premium Prediction** system with both a **Streamlit web application** and a **FastAPI backend**. The project leverages multiple Machine Learning algorithms to predict insurance premiums based on user demographics and health factors.
 
+## 🌐 **Live Application**
+
+**[🚀 Try the App Now](https://medical-premium-predictor.streamlit.app/)**
+
+*Experience the Medical Insurance Premium Predictor in action!*
+
 ---
 
 ## 🌟 Features
@@ -72,7 +78,13 @@ Medical_Insurance_premium_ML/
 
 ## 🎯 Quick Start
 
-### **Option 1: Run the Streamlit App (Recommended)**
+### **Option 1: Use the Deployed Streamlit App (Recommended)**
+
+**🌐 Live Application**: [https://medical-premium-predictor.streamlit.app/](https://medical-premium-predictor.streamlit.app/)
+
+Simply visit the link above to use the application directly in your browser!
+
+### **Option 2: Run Locally**
 
 1. **Clone the Repository**:
    ```bash
