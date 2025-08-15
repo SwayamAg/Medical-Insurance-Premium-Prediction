@@ -44,6 +44,7 @@ Medical_Insurance_premium_ML/
 ├── Medical_Insurance_Premium_Predicting_Model.ipynb  # Jupyter notebook with ML pipeline
 ├── Medical Insurance Price Prediction using Machine Learning.py  # Standalone ML script
 ├── requirements.txt                         # Python dependencies
+├── Procfile                                # Deployment configuration for Railway
 ├── README.md                               # This file
 ├── .gitignore                              # Git ignore patterns
 ├── Model_Performance.png                   # Model comparison visualization
