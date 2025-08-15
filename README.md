@@ -112,8 +112,8 @@ Medical_Insurance_premium_ML/
 ### **Option 3: Production API**
 
 The FastAPI backend is deployed on Railway and available at:
-- **API Base URL**: `https://f-api-production.up.railway.app`
-- **API Documentation**: `https://f-api-production.up.railway.app/docs`
+- **API Base URL**: `https://medical-insurance-premium-prediction-production.up.railway.app`
+- **API Documentation**: `https://medical-insurance-premium-prediction-production.up.railway.app/docs`
 
 ---
 
@@ -167,9 +167,22 @@ The Streamlit app can be deployed on:
 
 ### **Backend Deployment**
 The FastAPI backend is currently deployed on **Railway**:
-- **Production URL**: `https://f-api-production.up.railway.app`
+- **Production URL**: `https://medical-insurance-premium-prediction-production.up.railway.app`
 - **Auto-scaling**: Handles traffic automatically
 - **SSL Certificate**: HTTPS enabled
+
+### **Deployment Configuration**
+The project includes a `Procfile` for deployment on Railway and other platforms:
+
+```procfile
+web: uvicorn FAPI_MED:app --host 0.0.0.0 --port $PORT
+```
+
+This Procfile tells the deployment platform to:
+- Run the FastAPI application using `uvicorn`
+- Use `FAPI_MED.py` as the main application file
+- Bind to all network interfaces (`0.0.0.0`)
+- Use the `$PORT` environment variable for the port number
 
 ---
 

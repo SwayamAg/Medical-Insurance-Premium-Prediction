@@ -4,7 +4,7 @@ import requests
 import json
 
 # API Configuration
-API_BASE_URL = "https://f-api-production.up.railway.app"
+API_BASE_URL = "https://medical-insurance-premium-prediction-production.up.railway.app"
 PREDICT_ENDPOINT = f"{API_BASE_URL}/predict"
 
 # Set Page Configuration
@@ -348,7 +348,7 @@ st.markdown(f"""
         <p style="margin: 0; font-size: 1rem;">
             🚀 Developed with ❤️ by <strong>SWAYAM AGARWAL</strong> | 
             <a href="https://www.linkedin.com/in/swayam-agarwal/" target="_blank" style="color: white; text-decoration: underline;">LinkedIn</a> |
-            <a href="https://f-api-production.up.railway.app/docs" target="_blank" style="color: white; text-decoration: underline;">API Documentation</a>
+            <a href="https://medical-insurance-premium-prediction-production.up.railway.app/docs" target="_blank" style="color: white; text-decoration: underline;">API Documentation</a>
         </p>
     </div>
 """, unsafe_allow_html=True)
