@@ -42,8 +42,7 @@ Medical_Insurance_premium_ML/
 ├── .gitignore                              # Git ignore patterns
 ├── Model_Performance.png                   # Model comparison visualization
 ├── Preview_1.png                           # App interface preview
-├── Preview_2.png                           # Additional app preview
-└── .MED/                                   # Virtual environment
+└── Preview_2.png                           # Additional app preview
 ```
 
 ---
